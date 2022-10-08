@@ -7,10 +7,10 @@
   
 
 ## Preview
-![See Preview](./Project_1_preview.png)
+![See Preview](./homepage.png)
 
 ## Live Link
-[Link](https://super-klepon-7150ed.netlify.app)
+[Link](https://ornate-marshmallow-7a5896.netlify.app)
 
 ## Author and Contact
 - [Shyam Pandey](https://www.github.com/octokatherine)
